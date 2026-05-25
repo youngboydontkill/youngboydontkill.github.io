@@ -1,0 +1,4 @@
+# _config.yml 基础模板
+title: Xin Yang`s Homepage
+description: 一条区的主页
+theme: jekyll-theme-minimal  # 这是 GitHub 官方支持的Minimal主题
